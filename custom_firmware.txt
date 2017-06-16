@@ -1,0 +1,13 @@
+Your NodeMCU custom build finished successfully. You may now download the firmware:
+- float: http://nodemcu-build.com/builds/nodemcu-1.5.4.1-final-10-modules-2017-05-30-14-37-13-float.bin
+- integer: http://nodemcu-build.com/builds/nodemcu-1.5.4.1-final-10-modules-2017-05-30-14-37-13-integer.bin
+
+This was built against the 1.5.4.1-final branch and includes the following modules: dht, file, gpio, mqtt, net, node, tmr, uart, wifi, tls.
+The files are guaranteed to be available for download for 24h.
+
+*** NEW FLASHING TOOL *** NEW FLASHING TOOL *** NEW FLASHING TOOL ***
+I invite you to try the new GUI tool https://github.com/marcelstoer/nodemcu-pyflasher
+
+Learn how to flash the firmware: https://nodemcu.readthedocs.io/en/1.5.4.1-final/en/flash/. If you're upgrading from a previous version you should carefully study the "Upgrading Firmware" instructions on that page.
+
+Please help keep this service alive: http://nodemcu-build.com/faq.php#support
